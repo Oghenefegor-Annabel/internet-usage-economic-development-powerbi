@@ -21,6 +21,7 @@ To analyze the relationship between internet usage and economic development usin
 - Microsoft Excel
 
 ## Data Cleaning
+How the dataset was cleaned before use- https://youtu.be/ibbVr__oWLI
 - Removed unnecessary columns
 - Corrected data types
 - Checked for duplicates
